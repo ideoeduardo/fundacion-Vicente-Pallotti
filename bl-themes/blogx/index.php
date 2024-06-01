@@ -2,6 +2,18 @@
 <html lang="<?php echo Theme::lang() ?>">
 <head>
 <?php include(THEME_DIR_PHP.'head.php'); ?>
+
+
+
+
+<?php
+    echo Theme::css('https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.26/css/uikit.min.css', false);
+
+    echo Theme::js('https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.26/js/uikit.min.js', false);
+    echo Theme::js('https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.26/js/uikit-icons.min.js', false);
+?>
+
+
 </head>
 <body>
 

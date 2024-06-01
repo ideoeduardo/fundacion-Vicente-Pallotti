@@ -1,0 +1,1 @@
+Actualice la configuración de su sitio desde el <a href="./admin/">panel de administración</a>, puede cambiar el título, la descripción y las redes sociales desde <a href="./admin/settings">Configuracion > General</a>.

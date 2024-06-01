@@ -1,0 +1,1 @@
+Comience a escribir su propio contenido o edite el actual para adaptarlo a sus necesidades. Para crear, editar o eliminar contenido debe iniciar sesión en el <a href="./admin/">panel de administración</a> con el nombre de usuario <code>admin</code> y la contraseña que configuró en el proceso de instalación.

@@ -1,0 +1,2 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+{"general":{"name":"General","description":"","template":"","list":["crea-tu-propio-contenido","set-up-your-new-site","follow-bludit","acerca-de"]},"music":{"name":"Music","description":"","template":"","list":[]},"videos":{"name":"Videos","description":"","template":"","list":[]}}
